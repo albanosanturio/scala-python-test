@@ -54,6 +54,7 @@ numssq = list(map(lambda x : x ** 2, nums1))
 print("nomap: ",nums1)
 print("map: ",numssq)
 
+#edit1
 
 
 
